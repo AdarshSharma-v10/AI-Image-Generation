@@ -10,7 +10,7 @@ This is a sleek, responsive AI Image Generator built using **HTML**, **CSS**, an
 
 ## 📸 Preview
 
-![AI Image Generator Screenshot](./screenshot.png)
+![AI Image Generator Screenshot](./ScreenShot.png)
 
 ---
 
