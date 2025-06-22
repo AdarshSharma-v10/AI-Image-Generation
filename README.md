@@ -4,7 +4,7 @@ This is a sleek, responsive AI Image Generator built using **HTML**, **CSS**, an
 
 ## 🔥 Live Demo
 
-[Click here to view the live demo](#) *(https://ai-image-generation-lemon.vercel.app/)*
+*(https://ai-image-generation-lemon.vercel.app/)* 
 
 ---
 
